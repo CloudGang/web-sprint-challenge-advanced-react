@@ -57,7 +57,7 @@ _Please follow the setup instructions closely so that you can get everything up 
 - [x] Create a forked copy of this project
 - [x] Add your team lead as collaborator on Github
 - [x] Clone your OWN version of the repository (Not Lambda's by mistake!)
-- [x] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
 
 **Starting the server**
 
