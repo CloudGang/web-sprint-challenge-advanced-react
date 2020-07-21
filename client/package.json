@@ -35,6 +35,8 @@
     ]
   },
   "devDependencies": {
-    "@sheerun/mutationobserver-shim": "^0.3.3"
+    "@sheerun/mutationobserver-shim": "^0.3.3",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^9.0.2"
   }
 }
